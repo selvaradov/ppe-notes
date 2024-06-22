@@ -14,7 +14,7 @@ Modified: 2024-06-18 08:03:08 +0100
 
 
 
-![](../../media/Year-1-Prob-and-stats-9---Revision-image3.png)
+![](../../media/Year-1-Prob-and-stats-9---Revision-image3.jpeg)
 
 
 
