@@ -14,7 +14,7 @@ Modified: 2023-10-30 21:10:08 +0000
 
 
 
-![](../../media/Year-1-Logic-4---The-Syntax-of-Predicate-Logic-image2.png)
+![](../../media/Year-1-Logic-4---The-Syntax-of-Predicate-Logic-image2.jpeg)
 
 
 
