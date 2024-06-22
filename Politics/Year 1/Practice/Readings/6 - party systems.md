@@ -1,0 +1,156 @@
+## Principles
+### Elections and Electoral Systems
+- An electoral system (a set of laws and regulations governing electoral competition between candidates or parties or both) includes:
+	- Electoral formula: a function mapping votes -> seats
+	- Ballot structure: how candidates are presented on paper
+	- District magnitude: number of legislators per constituency
+- Three main families: majoritarian, proportional, and mixed
+- Inclusion - some restrictions on suffrage e.g.:
+	- Minimum age
+	- Mental health (only four countries have no restrictions)
+	- Citizenship (most restrict to this)
+	- Residency in district for certain period
+	- Residency in country for certain period
+	- Must not be living abroad
+	- Prison sentences
+	- Have to be registered
+![[Pasted image 20240213145404.png]]
+> Can think of electoral system choice of how to deal with divided societies as being between replicating ethnic divisions in the legislature and hoping that political leaders will cooperate after the election, and creating institutional incentives that seek to weaken or even transcend the political salience of ethnicity altogether.
+
+- Majoritarian: candidates/parties with most votes win; normally produces outcomes where largest party has majority of seats even if they don't have a majority of votes
+	- Single-member district plurality (SMDP, aka FPTP)
+	- Alternative vote (instant-runoff): candidate with fewest votes eliminated each time and all their next-highest preferences redistributed
+		- Fiji version where parties put forward their own preferences which voters can use as a default, or put in custom preferences over their next-favourite parties
+	- Borda count is quite interesting, points allocated to each preference and then candidate with highest sum wins, without any runoffs
+	- Two-round:
+		- majority runoff where top two in first round proceed, e.g. as used in France to elect President;
+		- majority plurality where everyone above a threshold in first round proceeds and then whoever has most support in second round wins e.g. French legislative elections
+		- Supplementary vote as an approximation of this but in a single round - bit like AV in that voters express a first preference and second preference, but some votes are wasted if they pick a candidate not in the top two
+	- Single non-transferable vote: used in multi-member districts, but candidates are competing with members of their own party so leads to infighting and lots of wasted votes. Also, when in districts with lots of seats, allows candidates to win with a very small % of the vote, so easy to cheaply buy votes and win
+	- Block voting: multi-member districts where citizens get as many votes as seats, or party block voting where citizens vote for a party which then wins all district seats and gives them to its party list candidates
+- Proportional: "a quota- or divisor-based system that is employed in multimember districts"
+	- Party list systems
+		- Various maths about different formulae for what the per-seat quota should be set at, how to deal with remainder seats, divisor-based methods
+		- District matters too - larger districts ==> more proportional outcomes
+		- Closed party list: the order of candidates set by party itself, voters can't give preferences for particular candidates. 
+		- Open party list: voters can also express preference for candidates within their chosen party.
+		- Free party list: "voters have multiple votes that they can allocate either within a single party list or across different party lists."
+		-  Natural % thresholds required to gain seats (as a mathematical fact), and formal thresholds set above that to further discourage small factions
+		- Apparentement: allowing small parties to form cartels and have their votes count together to cross the threshold. Meant to make it especially hard for extremist parties to get representation, but not all small ones
+	- Single transferrable vote
+		- Like AV but designed for multi-member districts
+		- Many rounds, each time one candidate is elected or one is eliminated, and surplus votes reallocated according to a formula (different options available)
+		- Complicated but reduces wasted votes, disadvantage is can lead to more within-party competition as it is a candidate-first system
+- Mixed systems: part majoritarian, part proportional.
+	- Can implement these independently of each other and allocate a set fraction of legislative seats to each method
+	- Or a dependent (mixed-member proportional) system where you use PR with party list to compensate for disproportionalities created by the majoritarian element
+		- Can sometimes need overhang seats 
+- List PR and FPTP are the most common electoral systems globally
+	- But a far greater proportion of "not free" countries use majoritarian systems than do "free" ones (Fig 13.7)
+- Different stories about why new countries choose to implement different electoral systems
+	- Self-interest of the parties, office-seeking aims of politicians, external/historical factors, genuine desire to do the best thing for the nation (e.g. if particularly divided etc)
+	- Finally the tale of why NZ **before 1993** was the prototype of a majoritarian system (changed in a referendum), pg 595
+ 
+### Social Cleavages and Party Systems
+- Definition of a political party: “a group of officials or would-be officials who are linked with a sizeable group of citizens into an organization; a chief object of this organization is to ensure that its officials attain power or are maintained in power” (Shively 2001, 234).
+	- Or, "a group of people that includes those who hold office and those who help get and keep them there."
+	- Goal of holding power differentiates them from interest groups
+- Parties help simplify the policymaking environment
+	- Aggregate elites who have been elected to legislatures - you have to be a member of a party for a long time in order to get into power, in most countries
+		- Leads to more stability as compared to systems where outsiders can gain power, e.g. presidential ones
+	- And aggregate the masses via party identification (Campbell 1960 and 1986) as an information shortcut (Downs 1957; Fiorina 1981)
+- Single-party system (only one political party is legally allowed to hold power) vs one-party dominant system (multiple parties but one always dominates)
+	- The latter is usually found in dictatorships, but not exclusively - e.g. ANC in South Africa, historically Congress in India, etc.
+- Effective number of parties
+	- Just like market share in economics & monopolies
+	- You can do it using vote share or seat share, depending on if you want number of electoral or number of legislative parties
+- Party formation: primordial vs instrumental view; i.e. social vs institutional
+	- Primordial (bottom-up) - cleavages exist already and groups form around these
+	- Instrumental (top-down) - political entrepreneurs want there to be parties to gain office and so cultivate social cleavages
+	- p621 - development of British Tory/Whig system
+- Common historical cleavages
+	- Urban-rural: about the price of food. Also more of a formal economy in urban areas, so contract law etc developed faster as opposed to focus on barter & tradition in rural areas
+	- Religion: in Europe, Protestant-Catholic, but Hindu-Muslim etc elsewhere
+	- Secular-clerical divide: e.g. having an established state vs having laïcité 
+	- Ethnic & linguistic: disagreements among scholars among how much these are primordial vs constructed (p633)
+- Post-industrial cleavages 
+	- Class: capitalists vs workers. Particularly important in Europe from late 19th CE. Some stuff on p628-9 on how Socialist parties broadened their appeal beyond manual workers alone. 
+		- "*Michels’s iron law of oligarchy* states that the leadership of organizations such as political parties will never be faithful to the program and constituency that gave rise to the organization in the first place."
+	- Post-materialism: emergence of new parties in the modern era
+		- e.g. Greens (Kitschelt 1988); extreme right-wing populists (Kitschelt 1996, M. Golder 2003)
+		- Challenged the *freezing hypothesis* (Lipset and Rokkan 1967) arguing that because there was universal suffrage from 1920s, it wouldn't be possible to create successful new parties, since even though underlying cleavages & social structures might change, there is no pool of previously-disenfranchised voters for new parties to tap in to
+		- From 1920s-1960s, a very similar set of parties (Socialists, Communists, Conservatives, Liberals) had dominated all European countries
+- Focus on work by Chandra and Boulet (2003) to explain why particular cleavages become politicised - from p634
+	- Attributes like skin colour, nationality, profession are fixed
+	- But political identities are socially constructed
+	- If attributes in a country are uncorrelated they are *cross-cutting*, otherwise they are *reinforcing*
+		- Example of Belgium and how linguistic & geographic cleavages go together
+	- Electoral system in a country creates different incentives for size of minimum winning coalition and thus which sort of cross-attribute alliances are likely to form (p638)
+		- Which latent cleavages translate into political cleavages is dependent on electoral institutions 
+	- Posner (2004) talks about composition of population to explain why Chewas and Tumbukas are political allies in Zambia but rivals in Malawi (in Zambia the two groups are too small to get representation on their own given it's an SMDP system)
+- Duverger's theory on number of parties
+	- The more cross-cutting cleavages in a country, the more political parties it will have (p643)
+	- But social cleavages can't be the only factor in number of parties, because e.g. in Europe, the number of votes going to left-liberal parties has increased only in some countries (Kitschelt 1988). Electoral institutions matter too
+		- *Mechanical effect* of electoral rules: "when electoral systems are disproportional, the mechanical effect punishes small parties and rewards large parties."
+		- *Strategic effect* is how parties and voters respond to the mechanical effect in terms of their behaviour. There is strategic voting on the part of citizens, and also strategic entry on the part of elites (whether or not to run a candidate who would have little chance of winning but dilute the votes of the lesser-evil opponent). Game theory on p651. p652: more disproportional systems increase incentives for small parties to merge
+	- Duverger’s law: SMDP systems encourage two-party systems.
+		- This is only true when the **same** two parties are the dominant ones in most districts, and so the same other smaller parties are consistently strategically abandoned by voters in each district (p655)
+		- i.e. it relies on a country having a nationalised party system - the same parties everywhere and so the number of parties at the national level is not much larger than the average number at the local level. Factors influencing this on p656
+	- Duverger’s hypothesis: PR favours multiparty systems.
+![[Pasted image 20240214152125.png]]
+- p658 makes the point that there is an important interplay between social & institutional factors
+	- only if you have high permissiveness (i.e. PR) **and** many cross-cutting cleavages will there be a many-party system
+	- somewhat supported by data in Table 14.16
+	- also some data on p661 about quantifying the distortionary mechanical effect of non-permissive systems
+	- p663-5 - positive correlation between number of ethnic groups and number of electoral/legislative parties in permissive systems, whereas no relationship in non-permissive ones, which fits with theory since in non-permissive if there are more ethnic groups then people just have to form alliances in order to win a plurality in each district
+	- p666 - also a relationship between district size and sensitivity of number of parties to number of ethnic groups (i.e. where district size is larger, additional ethnic groups does lead to more parties, but not in countries with small district size)
+## Kitschelt
+- Indirect policy exchange vs direct clientelistic exchange
+	- i.e. whether politicians are elected by voters who anticipate broad, long-term benefits, or because they expect to immediately receive crony jobs & other inducements as a result of doing so
+	- Some economic influence on this - richer countries and those with smaller state-subsidised sectors are less likely to be clientelistic
+	- Possibly small district magnitude has an effect but there are examples of large districts with lots of clientelism (Venezuela) and vice versa (Austria)
+- Positional vs valence competition
+	- Do parties compete over which goods they will provide, or how well they will provide the same goods
+	- e.g. for valence competition, maybe parties argue over who is more economically competent, etc, rather than whether to raise or cut taxes.
+	- In clientelistic systems, there is an emphasis on valence competition - candidates present themselves as the best able to provide desirable jobs/money to voters, rather than taking different policy positions
+	- But because politics is about finding means to ends, most disagreements are ultimately positional since people have different opinions about how to reach ends, even if they agree on those ends
+- Cleavages are durable divisions in traits/attributes/opinions
+	- Only some of these translate into *political partisan divides*
+		- e.g. if there are reinforcing cleavages then there will not be separate divides for each cleavage
+	- And only some of those partisan divides are *competitive* i.e. voters might change which party they support if parties move along that dimension towards them
+	- argues that it's not clear that "number of parties reflect\[s] the number of cleavages in a party system (Taagepera and Grofman 1985; Lijphart 1999, 81–3)"
+	- Why is there usually a reduction in dimensions from number of social divides to number of competitive electoral divides?
+		- if there's a two-party system, then party leaders might simply map newly-emergent salient issues onto the existing two-way divide, to prevent internal divisions emerging
+		- putting policy positions into a low-dimensional space is helpful because of cognitive limits for voters and politicians
+		- something about how development of policies like welfare state means that the actual distribution of preferences in society is mapped into a low-dimensional space without much loss in resolution
+- Competitiveness
+	- increased in majoritarian systems, and then some other stuff too
+- a section about voting & policy equilibria
+- Institutions vs social divides; supply vs demand in party systems
+	- Mentions Lipset and Rokkan (1967) 
+	- according to him according to Sartori (1968) their analysis isn't purely "sociological determinism"
+		- talks about two-way causation of how agrarian & religious divides emerged because of interactions between already-existing political elites 
+	- refers to some other people too, emphasis on strategic interactions between politicians though
+- Dismissive of freezing hypothesis, talks about dealignment and reduced engagement with electoral process from voters
+	- There are new partisan divides & competitive dimensions but argues that these are because of strategic interactions between politicians, not due to changes in underlying social structure (p542)
+	- mentions party cartels
+- Clientelistic structures in new democracies partly because of strategic interactions (as well as economic conditions)
+	- nothing about social cleavages really
+## Stokes
+- "In addition to inducing governments to be responsive to citizens, parties are reputed to give order to legislative processes, reduce problems of multidimensionality of the issue space, and permit voters an object to hold to account."
+- some stuff about why parties started to exist at all in the US
+	- "The formation of parties in the legislature was a natural reaction to the problem of a multidimensional issue space and the resulting instability and issue cycling. The minority legislative party then had an interest in mobilizing votes to enhance its position in the legislature, leading to the transformation of legislative parties into mass parties."
+- "In countries where military dictatorships suppressed parties for long periods, when a transition to democracy begins, parties often spring up before legislative politics is underway (see e.g. Linz & Stepan 1996)."
+- On social vs institutional causes
+	- Says the social camp doesn't ignore how electoral rules matter - "Lipset & Rokkan... make some gestures toward explaining how these rules arise out of preexisting societal cleavages."
+		- See also Boix (1997)
+	- Institutionalists can predict how many parties (Duverger) but less what kinds of parties
+		- apparently this analysis extended by Leys (1959) and Sartori (1968) to proportional multi-member districts
+	- Cox (1997): Making Votes Count. Talks about interaction between the two
+		- e.g. why district-level bipartisanship would translate into national-level bipartisanship
+		- importance of pre-existing groups
+		- **possible argument?** "local-level district magnitude, itself determined by electoral rules, places an upper bound on the number of effective parties; this institutional effect then interacts with social heterogeneity to produce the effective number of parties"
+- has some stuff on voter behaviour which could be useful for next week
+	- goes into detail on modelling parties and citizens' preferences, responsiveness, etc
+## Aldrich
+- seems to be mostly about party identification etc
