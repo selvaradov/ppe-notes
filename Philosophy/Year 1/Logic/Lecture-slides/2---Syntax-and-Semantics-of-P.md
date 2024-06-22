@@ -40,7 +40,7 @@ Modified: 2023-10-19 16:19:50 +0100
 
 
 
-![](../../media/Year-1-Logic-2---Syntax-and-Semantics-of-Propositional-Logic-image7.png)
+![](../../media/Year-1-Logic-2---Syntax-and-Semantics-of-Propositional-Logic-image7.jpeg)
 
 
 
