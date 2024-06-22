@@ -14,7 +14,7 @@ Modified: 2024-02-16 14:05:30 +0000
 
 
 
-![](../../media/Year-1-General-8---evil-image2.png)
+![](../../media/Year-1-General-8---evil-image2.jpeg)
 
 
 
