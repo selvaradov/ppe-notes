@@ -10,11 +10,11 @@ Modified: 2023-10-18 17:43:52 +0100
 
 
 
-![](../../media/Year-1-Logic-3---Formalisation-in-Propositional-Logic-image1.png)
+![](../../media/Year-1-Logic-3---Formalisation-in-Propositional-Logic-image1.jpeg)
 
 
 
-![](../../media/Year-1-Logic-3---Formalisation-in-Propositional-Logic-image2.png)
+![](../../media/Year-1-Logic-3---Formalisation-in-Propositional-Logic-image2.jpeg)
 
 
 
