@@ -14,7 +14,7 @@ Modified: 2023-10-30 21:09:03 +0000
 
 
 
-![](../../media/Year-1-Logic-5---The-Semantics-of-Predicate-Logic-image2.png)
+![](../../media/Year-1-Logic-5---The-Semantics-of-Predicate-Logic-image2.jpeg)
 
 
 
