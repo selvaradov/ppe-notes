@@ -6,24 +6,6 @@ Modified: 2024-02-01 16:19:00 +0000
 
 ---
 
-![](../media/Year-1-Logic-Collection-image1.jpeg)
-
-
-
-![](../media/Year-1-Logic-Collection-image2.jpeg)
-
-
-
-![](../media/Year-1-Logic-Collection-image3.jpeg)
-
-
-
-![](../media/Year-1-Logic-Collection-image4.jpeg)
-
-
-
-![](../media/Year-1-Logic-Collection-image5.jpeg)
-
 
 
 ![](../media/Year-1-Logic-Collection-image6.jpeg)
