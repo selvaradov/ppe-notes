@@ -6,13 +6,6 @@ Modified: 2024-04-30 12:54:46 +0100
 
 ---
 
-![](../media/Year-1-Moral-Collection-image1.jpeg)
-
-
-
-![](../media/Year-1-Moral-Collection-image2.jpeg)
-
-
 
 ![](../media/Year-1-Moral-Collection-image3.jpeg)
 
