@@ -1,10 +1,10 @@
 # PPE notes
-Contains my notes from lectures, tutorials, and readings in the first two years of PPE at Oxford. Also contains my marked solutions to problem sets for economics and logic (although, of course you could just get these from an LLM now).
+Contains my notes from lectures, tutorials, and readings studying PPE at Oxford (both Prelims and FHS included). Also contains my marked solutions to problem sets for economics and logic (although, you could of course just get these from an LLM now).
 
 Most of these are handwritten, and have been scanned then converted to .md format using the excellent [OneNote2MarkDown](https://github.com/theohbrothers/ConvertOneNote2MarkDown) script. Out of an abundance of courtesy for copyright, I've omitted the PDFs of lecture slides and problem sheets, though where easy to do so I've left in the syllabi and reading lists to be cross-referenced with my notes. The folder structure may vary between subdirectories.
 
 For my Anki flashcards, see [PPE flashcards](https://github.com/selvaradov/ppe-flashcards). For tutorial essays, see [my website](https://selvaradov.net/academic), where I also
-have a [repository](https://selvaradov.net/revision) of all my revision materials.. 
+have a [repository](https://selvaradov.net/revision) of all my FHS revision materials. (I came top of the cohort overall in Finals.)
 
 ## Contents
 ### Year 1
